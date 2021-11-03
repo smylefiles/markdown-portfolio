@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# SMYLEFILES
 
 <br>
 
-{% include 02-image.md %}
+# ![Kitty](https://variety.com/wp-content/uploads/2019/03/hello-kitty-credit-sanrio.jpg)
 
 <br>
 
-{% include 03-links.md %}
+# ![profile]https://github.com/smylefiles
 
