@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# ![kitty](https://variety.com/wp-content/uploads/2019/03/hello-kitty-credit-sanrio.jpg)
