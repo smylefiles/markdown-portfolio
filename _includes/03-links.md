@@ -1,1 +1,1 @@
-# [profile](https://github.com/smylefiles)
+# [Profile](https://github.com/smylefiles)
