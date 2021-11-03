@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-# ![profile]https://github.com/smylefiles
+# [GitHub](https://github.com/smylefiles)
 
