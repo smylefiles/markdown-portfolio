@@ -12,3 +12,10 @@ layout: default
 
 # [GitHub](https://github.com/smylefiles)
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}

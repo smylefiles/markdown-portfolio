@@ -1,0 +1,7 @@
+# **ATTRIBUTES** 
+
+- **Patient**
+
+- *Loyal*
+
+- **Independent 
