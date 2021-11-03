@@ -1,6 +1,7 @@
-# ATTRIBUTES 
-[ ] patient
+# **ATTRIBUTES** 
 
-[ ] loyal
+- **Patient**
 
-[ ] independent 
+- *Loyal*
+
+- **Independent 
